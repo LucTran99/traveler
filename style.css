@@ -1,0 +1,124 @@
+.VietNamCities{
+    width: 500px;
+    height: 300px;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    height: 1000000px;
+}
+.box{
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    width: 430px;
+    height: 250px;
+    background-color:#ccc;
+    opacity: 15%;
+    text-align: center;
+ 
+}
+
+.a-United{
+    color: white;
+    /* color: aqua; */
+    font-size: 20px;
+    
+}
+
+span{
+    color: white;
+   
+    /* color: aqua; */
+
+}
+/* .text{
+    position: relative;
+    font-size: 20px;
+    
+} */
+.text1{
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+   
+}
+
+.item1{
+    position: relative;
+  
+}
+
+
+.list{
+    display: flex;
+    gap: 30px;
+
+}
+
+.list-1{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+.list-1 .box-HaGiang,
+ .box-camau, .box-HaiPhong,
+  .box-TpHCM,
+  .box-HaNoi, .box-DaNang{
+    opacity: 30%;
+    border: 2px solid white;
+}
+
+.text-destination{
+    color: rgba(0, 128, 0, 0.449);
+    font-size: 20px;
+
+}
+
+.title{
+    text-align: center;
+}
+
+
+.anh-du-lich{
+    width: 400px;
+}
+
+.location .vitri, .thoigian, .person{
+    display: flex;
+    align-items: center;
+
+}
+
+.location{
+    display: flex;
+   margin-left: 40px;
+}
+
+.thoigian, .person{
+    margin-left: 70px;
+}
+
+.fa-location-dot, 
+.fa-person-walking-luggage,
+ .fa-person, .fa-star{
+    color: rgba(0, 128, 0, 0.619);
+}
+
+.Discorer{
+    width: 200px;
+}
+
+.danhgia .ngoisao{
+    display: flex;
+    align-items: center;
+}
+
+.danhgia{
+    display: flex;
+    align-items: center;
+}
